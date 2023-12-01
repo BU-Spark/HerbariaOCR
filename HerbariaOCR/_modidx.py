@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://BU-Spark.github.io',
                 'git_url': 'https://github.com/BU-Spark/HerbariaOCR',
                 'lib_path': 'HerbariaOCR'},
-  'syms': {'HerbariaOCR.core': {'HerbariaOCR.core.foo': ('core.html#foo', 'HerbariaOCR/core.py')}}}
+  'syms': { 'HerbariaOCR.core': { 'HerbariaOCR.core.foo': ('core.html#foo', 'HerbariaOCR/core.py'),
+                                  'HerbariaOCR.core.say_hello': ('core.html#say_hello', 'HerbariaOCR/core.py')}}}
