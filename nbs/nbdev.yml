@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "HerbariaOCR"
+  site-url: "https://BU-Spark.github.io/HerbariaOCR"
+  description: "Character recognition from herbaria image samples."
+  repo-branch: main
+  repo-url: "https://github.com/BU-Spark/HerbariaOCR"
