@@ -57,7 +57,7 @@ After that you can commit all changes.
 ```sh
 git add .
 git commit -m "commit message"
-git push
+git push origin <branch name>
 ```
 
 See [nbdev Getting Started](https://nbdev.fast.ai/getting_started.html) and the Prepare your Changes section of
