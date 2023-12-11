@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HerbariaOCR",
+    "section": "",
+    "text": "Note: The file README.md is generated from nbs/index.ipynb. Do not edit README.md directly, but rather edit nbs/index.ipynb. It is also rendered as the front page to the project documentation.\nSee project documentation for the rendered documentation output."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "HerbariaOCR",
+    "section": "Install",
+    "text": "Install\npip install HerbariaOCR"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "HerbariaOCR",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "index.html#contributing",
+    "href": "index.html#contributing",
+    "title": "HerbariaOCR",
+    "section": "Contributing",
+    "text": "Contributing\nIf you want to contribute to this project, there are primarily two ways:\n\nContribute bug reports and feature requests by submitting issues to the GitHub repo.\nIf you want to create Pull Requests with code changes, read the contributing guide on the github repo."
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello(\"Isaac\")\n\n'Hello Isaac!'\n\n\n\nfrom fastcore.test import *\n\n\ntest_eq(say_hello(\"Hamel\"), \"Hello Hamel!\")\n\n\nfrom IPython.display import display,SVG\n\n\ndisplay(SVG('&lt;svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"&gt;&lt;circle cx=\"50\" cy=\"50\" r=\"40\"/&gt;&lt;/svg&gt;'))\n\n\n\n\n\nsource\n\n\nfoo\n\n foo ()"
+  }
+]
