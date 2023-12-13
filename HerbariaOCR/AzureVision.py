@@ -243,8 +243,8 @@ def analyze_read(image_path, output_path):
 
 if __name__ == "__main__":
    
-    input_folder = 'data/resized-images'
-    output_folder = 'data/AzureVisionResults'
+    input_folder = 'data/resized-images/'
+    output_folder = 'data/AzureVisionResults/'
     # Create the output folder if it doesn't exist
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -558,8 +558,8 @@ def analyze_read(image_path, output_path, show_first_output=False):
 
 if __name__ == "__main__":
    
-    input_folder = 'data/resized-images'
-    output_folder = 'data/AzureVisioncrop'
+    input_folder = 'data/resized-images/'
+    output_folder = 'data/AzureVisioncrop/'
     # Create the output folder if it doesn't exist
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
