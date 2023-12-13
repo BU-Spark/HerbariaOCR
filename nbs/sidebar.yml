@@ -2,8 +2,7 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - 00_EDA.ipynb
-      - 01_AzureVision.ipynb
-      - 02_LLM_Evaluation.ipynb
-      - 03_LLM_Evaluation_Chinese.ipynb
-      - 04_LLM_Evaluation_Cyrilic.ipynb
+      - 00_AzureVision.ipynb
+      - 01_LLM_Evaluation.ipynb
+      - 02_LLM_Evaluation_Chinese.ipynb
+      - 03_LLM_Evaluation_Cyrilic.ipynb

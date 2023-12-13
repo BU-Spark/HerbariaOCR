@@ -3,7 +3,7 @@
 # %% auto 0
 __all__ = ['word2vec', 'cosdis']
 
-# %% ../nbs/03_LLM_Evaluation_Cyrilic.ipynb 48
+# %% ../nbs/03_LLM_Evaluation_Cyrilic.ipynb 49
 # utility functions for finding cosine similarity
 
 def word2vec(word):
