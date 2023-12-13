@@ -1,0 +1,15 @@
+Based on the details provided, here is the relevant information formatted into JSON according to the Darwin Core standard for biodiversity specimen. The country appears to be Russia, specifically inferred from the region "Камчатки" which is the Russian word for Kamchatka.
+
+```json
+{
+  "institutionCode": "MW",
+  "catalogNumber": "0001309",
+  "scientificName": "Pinus pumila (Pallas) Regel",
+  "locality": "Долина р. Камчатки",
+  "eventDate": "1980-06-26",
+  "recordedBy": "Г. И. Карев",
+  "country": "Russia"
+}
+```
+
+Please note that some of the text is not clearly readable or relevant for Darwin Core fields, so it has been omitted. The herbarium location is given as the Herbarium of the University of Moscow (Herbarium Univ. Mosquensis), and the "Collector's Name" (recordedBy) and "Collection Date" (eventDate) have been derived from the text that says "26 - vi 1980 %. Собрал Г. И. Карев." This is commonly understood to indicate that G. I. Karev collected the specimen on June 26, 1980. The scientific name "Pinus pumila (Pallas) Regel" has been provided as well.

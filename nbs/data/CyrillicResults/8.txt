@@ -1,0 +1,20 @@
+```json
+{
+  "institutionCode": "MW",
+  "catalogNumber": "894 758",
+  "phylum": "Crassulacare",
+  "country": "Uzbekistan",
+  "stateProvince": "Кашкадарьинская обл.",
+  "locality": "30-40 км к юв от п. Яккабаг, 10 км к ЮК от к-ка Ташкурган. Отпоги Гиссарского хр. Бассейн р.Кызылларья",
+  "minimumElevationInMeters": "2000",
+  "maximumElevationInMeters": "2500",
+  "eventDate": "1979-06-26/1979-06-27",
+  "recordedBy": "И.И.Русанович",
+  "identifiedBy": "not provided",
+  "collectionCode": "MHA",
+  "fieldNumber": "not provided",
+  "basisOfRecord": "PreservedSpecimen"
+}
+```
+
+Please note that the field `identifiedBy` is marked as "not provided" because the relevant information was not supplied in the text. The `fieldNumber` is also marked as "not provided" because while there seems to be a number '3161', it's unclear if it refers to a field number. Some data (like the specific name of the species or the exact locality in non-Cyrillic script) are also not provided within the text supplied. The Cyrillic word "Выс." and "Alt." likely refer to "elevation" and "altitude" respectively, so the minimum and maximum elevation are inferred from these words.

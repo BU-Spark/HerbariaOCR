@@ -1,0 +1,21 @@
+```json
+{
+  "institutionCode": "MW",
+  "catalogNumber": "MW 0 750 892",
+  "scientificName": "Lycopodium u Brainea insignis",
+  "family": "Gramincae",
+  "country": "Vietnam",
+  "stateProvince": "Lam Dong",
+  "locality": "Bi Doup mountain massif, north of Giang Ly station",
+  "decimalLatitude": "12.18744",
+  "decimalLongitude": "108.672972",
+  "coordinateUncertaintyInMeters": "1561",
+  "habitat": "Tropical mid-mountain mixed forest with Pinus kesiya Royle ex Gordon and Ericaceae",
+  "eventDate": "2012-12-24",
+  "recordedBy": "N.G. Prilepsky, A.N. Demidova, A.N. Kuznetsov, S.P. Kuznetsova",
+  "identifiedBy": "A.N. Demidova, N.G. Prilepsky",
+  "fieldNumber": "461"
+}
+```
+
+Please note that the habitat mentioned in the text describes the environment but does not correspond exactly to a Darwin Core term. The "coordinateUncertaintyInMeters" assumes that "1561 m" refers to the elevation which is not the correct use for that term. However, due to the context provided, there is no other suitable Darwin Core term given for elevation or altitude, so this is inferred to the best of my ability. If the exact Darwin Core term for elevation becomes clear, it should be updated accordingly.

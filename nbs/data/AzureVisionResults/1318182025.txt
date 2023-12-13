@@ -1,0 +1,27 @@
+```json
+{
+  "occurrence": {
+    "recordNumber": "6706",
+    "eventDate": "1922-03-20/1922-03-22",
+    "country": "Puerto Rico",
+    "locality": "Vicinity of Dorado"
+  },
+  "taxon": {
+    "scientificName": "Hohenbergia antillana Mez",
+    "identificationID": "00703862",
+    "identifiedBy": ["Julián Aguirre-Santoro", "J. A. Cedeño-Maldonado", "M.T. Strong"],
+    "dateIdentified": ["1999", "2015", "2019"]
+  },
+  "institution": {
+    "institutionCode": "US",
+    "institutionID": "1145429"
+  },
+  "collection": {
+    "catalogNumber": "00703862",
+    "collectionCode": "ONA"
+  },
+  "recordedBy": ["N. L. Britton", "E. G. Britton", "Margaret S. Brown"],
+  "preparations": "Specimen",
+  "associatedSequences": "Wittmackia antillana (Mez)"
+}
+```

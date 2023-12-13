@@ -1,0 +1,13 @@
+```json
+{
+  "country": "Mexico",
+  "institutionCode": "Smithsonian Institution",
+  "collectionCode": "DUDLEY HERBARIUM OF STANFORD UNIVERSITY",
+  "catalogNumber": "01228450",
+  "scientificName": "Croton californicus Tenuis (S.Wats) Feng.",
+  "locality": "Meadow 6 mi. E. of Rancho Garumbullo",
+  "eventDate": "1932-10-28",
+  "recordedBy": "Ira L. Wiggins",
+  "minimumElevationInMeters": "792.48" // Converted from 2600 ft
+}
+```
