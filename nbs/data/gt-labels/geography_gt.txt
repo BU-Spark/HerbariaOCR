@@ -1,0 +1,1008 @@
+1697659851: Russian Federation
+2573258025: United States of America
+2597666444: France
+1931288980: United States of America
+1930241969: United States of America
+1929944910: United States of America
+1931007576: Canada
+1928514234: United States of America
+1928658806: United States of America
+1931124118: United States of America
+1929752296: United States of America
+2562899020: United States of America
+1931255575: United States of America
+1929858478: United States of America
+1937505702: United States of America
+474656434: Australia
+1265505301: Brazil
+1265483891: Brazil
+3416707560: United States of America
+3416740305: Greece
+1426171668: Paraguay
+1802583431: France
+2512855384: India
+1318293083: Dominican Republic
+3005670412: Indonesia
+1318526260: Mexico
+1802569032: Mexico
+1456345670: United States of America
+1998333126: Mexico
+1998550976: United States of America
+1998969928: United States of America
+1998473911: United States of America
+2425414867: United States of America
+1999314904: United States of America
+1998413329: United States of America
+1999026558: Mexico
+1998316723: United States of America
+1999167579: United States of America
+3356803607: United States of America
+2575053354: United States of America
+1999311542: United States of America
+1999283271: United States of America
+3459889344: Thailand
+1999006043: United States of America
+1998497875: United States of America
+1998722787: Canada
+1999143240: United States of America
+2608680770: United States of America
+1999056693: United States of America
+2608673843: United States of America
+1998571450: United States of America
+1998994775: United States of America
+1998482052: United States of America
+1999328636: United States of America
+731408891: France
+438153065: Argentina
+437056001: Australia
+437693558: France
+1212575663: France
+1212567865: France
+438120086: France
+438645471: Martinique
+438118888: Côte d’Ivoire
+437639743: Belgium
+437308856: Madagascar
+438633225: South Africa
+439286989: Madagascar
+474921033: Brazil
+667499366: France
+437356552: Viet Nam
+437659994: Cuba
+437656118: United States of America
+436990042: Brazil
+438202601: Guadeloupe
+438582009: Guadeloupe
+438299177: Madagascar
+437448502: Senegal
+3334581963: Greenland
+2625898343: United States of America
+1563245392: China
+2426921679: United States of America
+2236147388: United States of America
+1675972550: Australia
+2452262576: Chile
+1802596511: Mexico
+1563323313: Norway
+2849254057: Russian Federation
+1457812021: United States of America
+2610882325: Bhutan
+1456008930: Mexico
+2571435846: Venezuela (Bolivarian Republic of)
+1321842019: Jamaica
+2235750047: Ecuador
+2900445104: United States of America
+1456276626: United States of America
+3467360175: United States of America
+1317278320: United States of America
+2421752896: United States of America
+1805297621: Canada
+1805431168: United States of America
+1039025105: United States of America
+1038991156: United States of America
+1805292273: United States of America
+1038924603: United States of America
+1805298355: United States of America
+1805292635: United States of America
+1038926232: United States of America
+1805440196: United States of America
+1038967579: United States of America
+1038933447: United States of America
+2900436116: United States of America
+2565407235: United States of America
+2235813242: Mexico
+2625851024: United States of America
+2592277723: Panama
+1675940934: Ecuador
+1321443340: Philippines
+2643353998: United States of America
+2284193310: United States of America
+2571504032: Norway
+1563210464: Sweden
+1456213805: Brazil
+1320488541: Cuba
+2565452643: United States of America
+1702847152: Sweden
+1930574598: United States of America
+1929244776: Puerto Rico
+1928370989: United States of America
+2423994521: Panama
+2573563462: United States of America
+2284153322: Argentina
+2549491705: Canada
+2397800089: United States of America
+1456001675: United States of America
+1456143688: United States of America
+1675930631: United States of America
+1319864119: Brazil
+1563285661: India
+1322650194: Costa Rica
+1318182025: Puerto Rico
+3005750161: United States of America
+3028978025: Iran (Islamic Republic of)
+3028987457: Iraq
+3028997059: France
+3029006515: Bolivia (Plurinational State of)
+2514524961: Malaysia
+2513842767: Switzerland
+2516762837: Netherlands
+2513616378: South Africa
+2514667385: Congo, Democratic Republic of the
+2514761846: Netherlands
+2515642096: Sint Maarten (Dutch part)
+2514528877: South Africa
+2516640138: Malaysia
+2514723844: Netherlands
+2515771511: Spain
+2514102813: Viet Nam
+2516419324: Netherlands
+2517526453: unknown or invalid
+2513862848: unknown or invalid
+2516471936: Indonesia
+2517375344: unknown or invalid
+2513600930: United States of America
+2514362967: Paraguay
+2516836918: Cambodia
+1056069802: Fiji
+1638424637: Germany
+1701811884: Norway
+1702371088: Norway
+1701599986: Svalbard and Jan Mayen
+1702365209: Norway
+1702012844: Norway
+1702358167: Norway
+1702001459: Norway
+1702352653: Sweden
+1701991397: Norway
+1701470291: Norway
+1701976980: Norway
+1702438076: Norway
+2005771863: Korea, Republic of
+1998773668: United States of America
+1998991904: United States of America
+1999413720: United States of America
+1999320848: United States of America
+2446828060: Canada
+2012879889: United States of America
+1998481102: United States of America
+1999330570: United States of America
+1999047345: United States of America
+1998758107: United States of America
+1998465329: United States of America
+1999317509: United States of America
+1999028044: United States of America
+1830992236: China
+1135439455: Greece
+3052190309: Greece
+1584383967: China
+2859424505: United States of America
+2859305213: United States of America
+2859406708: United States of America
+2859014941: United States of America
+1563140142: United States of America
+2858981761: United States of America
+2859042459: United States of America
+2859205685: United States of America
+2382623542: United States of America
+2515947653: Belgium
+2515509875: unknown or invalid
+2516458084: Netherlands
+2512978024: unknown or invalid
+2513965497: unknown or invalid
+2515252166: Brazil
+2513596553: Mexico
+2514376754: Bolivia (Plurinational State of)
+2516750403: United States of America
+1055366369: Mexico
+1675890176: Norway
+2235995189: Mexico
+3092956655: United States of America
+1318027385: United States of America
+1321746477: Haiti
+1836712931: India
+1317865686: Panama
+1062492619: Rwanda
+1260164220: Brazil
+1424543510: Morocco
+1988124288: Canada
+1988239866: Canada
+439241145: Sri Lanka
+1840203964: Congo, Democratic Republic of the
+2243263149: Mali
+1839459389: Congo, Democratic Republic of the
+1840095043: Congo, Democratic Republic of the
+1840405939: Central African Republic
+1839928488: Congo, Democratic Republic of the
+3467294610: Belize
+3467354375: Sweden
+2625852862: China
+2236176339: Brazil
+2452236904: United States of America
+1702798423: Russian Federation
+1802552799: Colombia
+3001102338: Estonia
+3001176019: Ukraine
+3001081883: Estonia
+3001166637: Estonia
+3001179543: Estonia
+2284326054: Panama
+1675819460: United States of America
+1456165342: United States of America
+2549603947: China
+2235755905: Brazil
+1318797445: Antigua and Barbuda
+2515216190: Honduras
+2514533738: Indonesia
+2517047032: Tanzania, United Republic of
+2514461919: unknown or invalid
+2514515297: Indonesia
+2515925582: Congo, Democratic Republic of the
+2515196651: Philippines
+2516405868: Malaysia
+2517108376: United States of America
+2514917088: China
+2517171312: Norway
+2875995685: Armenia
+1935938475: Spain
+1935892381: Germany
+3091199136: United States of America
+2807578524: United States of America
+2807261388: United States of America
+2807456023: United States of America
+2807365108: United States of America
+2807319680: United States of America
+2807521521: Colombia
+1019531437: Cameroon
+1675777378: United States of America
+2284189808: Croatia
+2549496787: United States of America
+2397779786: United States of America
+2284257102: Cuba
+1319210580: Brazil
+3092906623: United States of America
+2514607056: unknown or invalid
+2513624958: unknown or invalid
+2515905904: South Africa
+2514332268: France
+2514380395: Indonesia
+2517280563: Ecuador
+2515241297: unknown or invalid
+2516406700: Belgium
+2516224982: Netherlands
+2515327027: Brazil
+2235965636: United States of America
+2625876902: United States of America
+2625904355: United States of America
+2235956175: United States of America
+2512820352: United States of America
+2235866543: Indonesia
+2426902656: United States of America
+2573212768: India
+1701276937: Norway
+1701335898: Norway
+1701231105: Norway
+1701285949: Norway
+1701266314: Norway
+1701236914: Norway
+1701287735: Sweden
+187209281: Sweden
+1701766050: Svalbard and Jan Mayen
+1937521898: United States of America
+1949855671: United States of America
+1928175542: Puerto Rico
+1929143537: United States of America
+1930252111: Puerto Rico
+1989131227: United States of America
+1989431045: United States of America
+1988737850: United States of America
+1989039350: United States of America
+1989313099: United States of America
+2274177724: United States of America
+1988969066: United States of America
+2252181535: United States of America
+2252151414: United States of America
+1977964375: Canada
+1057464806: Uganda
+1057260090: Algeria
+813379916: Angola
+1057532849: United States of America
+1056306307: Madagascar
+1057234135: Indonesia
+1057553687: Brazil
+436703955: France
+2549492260: United States of America
+1318212360: Colombia
+2848506530: China
+1321575246: Guatemala
+3005727173: United States of America
+1321995468: China
+1322817564: United States of America
+1675999637: United States of America
+1259191398: Panama
+1257819684: Russian Federation
+2430551392: United States of America
+2989927287: United States of America
+1455174725: Canada
+2284154890: United States of America
+2900461439: United States of America
+2236031445: United States of America
+1843567618: United States of America
+1675973762: United States of America
+1676047230: Germany
+1318477305: United States of America
+3698756098: United States of America
+2517167632: unknown or invalid
+2513883304: Indonesia
+2516696767: unknown or invalid
+2513656631: unknown or invalid
+2513761556: Indonesia
+2514561032: Indonesia
+2517198083: United States of America
+2516271128: Brazil
+2516743780: France
+2805014861: Germany
+144854485: Germany
+144838164: Austria
+864909330: Cuba
+144902385: Germany
+144838161: Austria
+1987004085: United States of America
+1986885681: United States of America
+2512804326: United States of America
+1322958063: Haiti
+2512759946: United States of America
+3696559994: United States of America
+1056014429: Thailand
+436716407: France
+1563221199: Tajikistan
+2512761763: Canada
+1321333954: United States of America
+1931060382: United States of America
+1929796452: United States of America
+1928452768: United States of America
+1930778822: Cuba
+1929535381: United States of America
+2565969320: Italy
+3392108313: Italy
+2562090317: Italy
+1852124166: Panama
+2236057326: Mexico
+1702754520: United States of America
+3043554903: India
+1322398916: United States of America
+1318373170: Haiti
+3357284466: United States of America
+2236142683: Costa Rica
+1701792313: Norway
+1701852084: Norway
+1702340583: Norway
+1702324083: Norway
+1702233404: Norway
+900324877: Norway
+1701892850: Sweden
+1701783462: Norway
+1701688454: Norway
+1702326021: Norway
+1702040261: Portugal
+1702265667: Norway
+2867598821: Norway
+1927910520: United States of America
+1929163462: Puerto Rico
+1930449245: Haiti
+1928350945: United States of America
+1929317363: United States of America
+2251702912: Mexico
+1930924401: United States of America
+2235396749: Malaysia
+1929252363: United States of America
+1927995752: United States of America
+438294181: France
+438824413: Algeria
+439294172: Madagascar
+667355588: Uruguay
+474752652: New Caledonia
+437804966: Italy
+437667776: Viet Nam
+437016988: Brazil
+437498688: Peru
+437205236: France
+438972235: Martinique
+1936123239: Germany
+1935990933: Palestine, State of
+1320460457: Haiti
+1702851818: Costa Rica
+1675788663: United States of America
+1456419962: United States of America
+3340047855: United States of America
+1927799942: Mexico
+1930203372: United States of America
+1929034867: Brazil
+2012771368: Costa Rica
+1930177611: Malaysia
+1928904177: United States of America
+1928276301: Colombia
+1929455203: Brazil
+1930554353: United States of America
+1928034398: United States of America
+1929153673: Jamaica
+1930323339: United States of America
+2513816674: unknown or invalid
+2514046501: Malaysia
+2514666766: Netherlands
+2516864891: Netherlands
+2513843663: Brazil
+2514563201: Spain
+2513556994: Argentina
+2517073037: Suriname
+2513548374: Paraguay
+2513105864: Brazil
+2514597432: Indonesia
+2513686671: Congo, Democratic Republic of the
+2513064820: Hungary
+2516564502: United Kingdom of Great Britain and Northern Ireland
+2513517294: United States of America
+2515481887: Papua New Guinea
+2513028120: unknown or invalid
+2516037063: Algeria
+2514219426: unknown or invalid
+3020071550: Estonia
+3020078501: Estonia
+3019979401: Estonia
+1930839217: Brazil
+1991428478: Mexico
+1928506645: United States of America
+1930481189: United States of America
+1981501278: Mexico
+1928908236: Guyana
+3503204182: United States of America
+1998729261: United States of America
+1998968996: United States of America
+2425445076: United States of America
+1998882868: United States of America
+1999105588: United States of America
+1998590947: United States of America
+1998818359: United States of America
+1998308840: United States of America
+1998543749: United States of America
+1998975109: United States of America
+1999410499: United States of America
+2425404585: Canada
+1999314245: United States of America
+2573155691: Australia
+2573161023: Russian Federation
+2572960903: United States of America
+2573054178: United States of America
+2513843779: Indonesia
+2516625469: Indonesia
+2516858404: Thailand
+2513512927: United States of America
+2514401720: unknown or invalid
+2514946920: Netherlands
+2515816966: Greece
+2515829688: Philippines
+2514854487: Netherlands
+2517498400: Cameroon
+2005528821: Germany
+2005593775: United States of America
+2005539155: United States of America
+2005533779: United States of America
+1146138679: United States of America
+1989533791: United States of America
+1989181820: United States of America
+1989454858: Mexico
+2236018163: Indonesia
+1317226844: Philippines
+1318393575: Colombia
+1319648357: Virgin Islands (U.S.)
+1676047656: Mexico
+1317746297: Mexico
+1319811635: United States of America
+2426886454: United States of America
+2452230713: Türkiye
+1320398138: Ecuador
+1321991154: United States of America
+1426052966: United States of America
+2234495456: United States of America
+1257613902: Philippines
+3342876306: United States of America
+1804372890: Canada
+2265509546: United States of America
+2265485412: United States of America
+2265588715: United States of America
+2265566552: United States of America
+1019752371: France
+439633342: France
+1927886612: United States of America
+1930277693: Cuba
+1929084979: Honduras
+1931220496: United States of America
+1929900918: Costa Rica
+1928678486: United States of America
+1930979681: Mexico
+1426166249: United States of America
+2981274251: Peru
+2981282666: Bolivia (Plurinational State of)
+2236950433: United States of America
+1998843424: United States of America
+1998543588: United States of America
+2425435971: United States of America
+1999112557: Costa Rica
+1998836464: United States of America
+2446819762: United States of America
+1999401722: United States of America
+2575086103: United States of America
+1998565761: United States of America
+1999418228: United States of America
+1999130856: United States of America
+3341239321: United States of America
+3341248414: United States of America
+3341257544: United States of America
+1988903463: United States of America
+1989179393: United States of America
+1989439019: United States of America
+1988751949: India
+1989036412: United States of America
+1989326782: United States of America
+3060557324: Philippines
+1091087924: United States of America
+1091063773: United States of America
+2418868230: Australia
+2573469113: United States of America
+2573544171: United States of America
+2573330291: United States of America
+2573328013: United States of America
+912507071: Brazil
+912540960: Spain
+912565425: France
+912570867: Italy
+1258000260: United States of America
+2235847388: United States of America
+1675955089: United States of America
+1456376042: United States of America
+1563240212: Peru
+2592238071: United States of America
+1322630109: United States of America
+2848440467: United States of America
+1503173489: United States of America
+1931419278: United States of America
+2514177451: Guatemala
+2516011819: unknown or invalid
+2514770172: Netherlands
+2517266770: Netherlands
+2512966787: Poland
+2513883147: Indonesia
+2513913908: Indonesia
+2514708896: Netherlands
+1702827727: Mexico
+2625873744: United States of America
+1563197526: United States of America
+1318345053: United States of America
+1318724267: United States of America
+1321992876: Mexico
+2397724211: Bolivia (Plurinational State of)
+1317726996: United States of America
+2425437928: United States of America
+1998684205: United States of America
+1999110359: United States of America
+1998611243: United States of America
+1999032409: United States of America
+1998322454: United States of America
+1998540182: United States of America
+3703056529: Canada
+1998467065: United States of America
+1998686142: United States of America
+2446828826: United States of America
+1998387136: United States of America
+1998808952: United States of America
+1999236210: Haiti
+2270190585: United States of America
+1324416944: Norway
+1324415808: Norway
+2436799917: Australia
+1144117269: Finland
+1144117930: Norway
+1144117467: Norway
+1144116842: Norway
+1144116297: Norway
+1144113124: Norway
+1144111255: Norway
+1144111060: Norway
+1144111291: Norway
+1699821443: South Africa
+1699819061: Philippines
+1988899873: United States of America
+1989203918: Indonesia
+1989452156: United States of America
+1988762889: United States of America
+1989065871: United States of America
+1989357976: Canada
+1988850469: United States of America
+2575039168: United States of America
+1999154508: United States of America
+1999365236: United States of America
+1999217275: United States of America
+1998934839: United States of America
+1998646322: United States of America
+1998370401: United States of America
+3392122454: Canada
+1998927495: United States of America
+3385632342: Mexico
+1998358368: Mexico
+2012884607: United States of America
+1998980522: United States of America
+1978791988: Canada
+2516441644: unknown or invalid
+2513632425: Algeria
+2513512357: United States of America
+2516367754: Indonesia
+2516648377: China
+2517169218: unknown or invalid
+2514512541: Philippines
+2516266693: United States of America
+2516133079: South Africa
+2514718776: Netherlands
+437963061: China
+438953416: Sudan
+667477358: Tunisia
+439392092: Brazil
+438478181: France
+731352746: Türkiye
+437268052: Cambodia
+694333780: Mauritania
+438057885: New Caledonia
+439102167: Brazil
+607734568: Viet Nam
+438658471: Iran (Islamic Republic of)
+3053337231: United States of America
+3053440922: United States of America
+3053442572: United States of America
+2830034412: Australia
+1840286477: Congo, Democratic Republic of the
+1840055092: Congo, Democratic Republic of the
+2985561385: Russian Federation
+575063194: South Africa
+575124657: Iran (Islamic Republic of)
+575349632: Israel
+684506968: France
+474857008: Paraguay
+607743206: New Caledonia
+439392892: Algeria
+437895938: Brazil
+438835964: Côte d’Ivoire
+1843863678: United States of America
+2517468164: Brazil
+2514598419: Cameroon
+2515398418: unknown or invalid
+2516437739: unknown or invalid
+2517885479: unknown or invalid
+2516041985: South Africa
+2516118664: Indonesia
+2517843127: Suriname
+2515897913: unknown or invalid
+3413669029: Türkiye
+1840413408: Tanzania, United Republic of
+575194266: Israel
+575233549: Indonesia
+1563210251: United States of America
+1675861401: France
+2426917844: Colombia
+2284150251: United States of America
+436811558: Côte d’Ivoire
+436830234: Colombia
+462516430: Madagascar
+667740521: Bolivia (Plurinational State of)
+1936123523: Russian Federation
+1936025558: Spain
+1935972158: Spain
+3469863708: United States of America
+1991424996: Costa Rica
+1930993286: United States of America
+1930741763: United States of America
+1928664304: Puerto Rico
+1931285394: Cuba
+1928825645: United States of America
+1930001164: United States of America
+1931101328: Canada
+1949826956: United States of America
+1931004823: United States of America
+1928495633: United States of America
+1262195198: United States of America
+1424769351: Canada
+2612114399: Bolivia (Plurinational State of)
+1228454849: United States of America
+1228254314: Peru
+1228209830: Brazil
+439453353: Sierra Leone
+439330078: Madagascar
+437638258: Viet Nam
+437538294: Côte d’Ivoire
+437375295: Viet Nam
+1269651682: United States of America
+3469894549: United States of America
+3469965760: United States of America
+3470019601: United States of America
+3469982849: United States of America
+1269720741: Mexico
+3469909240: United States of America
+1989305257: United States of America
+1988621268: United States of America
+1988896980: United States of America
+1989188008: Somalia
+1989449647: United States of America
+1988742851: United States of America
+1146376618: United States of America
+1852143901: Colombia
+2848499425: United States of America
+1456250583: United States of America
+2512789170: United States of America
+1318334082: Dominican Republic
+1563253027: United States of America
+2549483800: Canada
+2595756978: United States of America
+1990824315: United States of America
+1990825865: United States of America
+2595747531: United States of America
+2236597761: United States of America
+1990809725: United States of America
+1228491932: United States of America
+2235570434: Bahamas
+1228315937: United States of America
+1424774269: United States of America
+1228251414: United States of America
+1228306029: United States of America
+1928095277: United States of America
+1930650448: United States of America
+1928522992: United States of America
+1929586920: United States of America
+1930498220: United States of America
+1929215495: United States of America
+1928249367: United States of America
+1930585001: United States of America
+1931007684: United States of America
+1929709919: Bolivia (Plurinational State of)
+3404307303: Türkiye
+2597547672: Spain
+3356432307: Iran (Islamic Republic of)
+1230523158: Angola
+1230475863: Austria
+1230521660: Peru
+1319326174: United States of America
+2452332496: Puerto Rico
+1456402683: Bulgaria
+1317840733: United States of America
+2234286160: United States of America
+1638361821: Sudan
+1563345611: United States of America
+1319596167: United States of America
+2235846679: Brazil
+1320104750: Panama
+1990003078: United States of America
+2451547838: United States of America
+3709798405: United States of America
+3709961181: United States of America
+2236156450: United States of America
+1318897823: United States of America
+2236024256: Ecuador
+2236116492: United States of America
+1839875557: Congo, Democratic Republic of the
+1839435764: Congo, Democratic Republic of the
+1840238220: Congo, Democratic Republic of the
+1260899329: Peru
+1839619660: Belgium
+2243287836: Congo, Democratic Republic of the
+1839372103: Brazil
+1839431691: Congo, Democratic Republic of the
+1990250633: United States of America
+438991779: Mali
+438985152: Côte d’Ivoire
+437640137: Brazil
+438313505: United States of America
+437160969: New Caledonia
+437955154: Madagascar
+2269030207: French Polynesia
+2848503382: United States of America
+2452293722: United States of America
+1322253698: United States of America
+1318062184: France
+2516594183: Switzerland
+2513070303: United States of America
+2514386394: United States of America
+2516664127: Netherlands
+2515812343: unknown or invalid
+2514129946: Spain
+2516447912: Netherlands
+2515533625: Netherlands
+2513966458: Philippines
+2514695932: unknown or invalid
+2515524620: United States of America
+2513652595: unknown or invalid
+2516337873: Fiji
+2516850832: unknown or invalid
+2513051709: France
+2516684995: Netherlands
+2515661641: Congo, Democratic Republic of the
+1424540219: Tunisia
+1929883118: United States of America
+1931242159: United States of America
+1937515283: United States of America
+1930892685: Cuba
+1928444218: United States of America
+1930777125: United States of America
+1929531338: United States of America
+1928246346: Peru
+1930031321: United States of America
+1928816120: Brazil
+2884115305: United States of America
+1929339638: Canada
+1928097508: Canada
+1930341154: Cuba
+1927787608: Antigua and Barbuda
+1928722299: Spain
+1675914558: Sweden
+1702837908: China
+2397721138: United States of America
+3005768358: United States of America
+2643351883: United States of America
+2452246731: United States of America
+2512992091: unknown or invalid
+2513976485: Canada
+2516495194: unknown or invalid
+2517392950: Indonesia
+2513611146: Switzerland
+2514509647: Papua New Guinea
+2516970560: unknown or invalid
+2517893930: unknown or invalid
+2515754360: unknown or invalid
+2514847693: Netherlands
+2512991486: Netherlands
+437201612: Viet Nam
+438825081: Brazil
+438974427: China
+437492281: Central African Republic
+694707666: Brazil
+2243247480: Belgium
+1839457423: Congo, Democratic Republic of the
+1839899251: Congo, Democratic Republic of the
+2651317899: United States of America
+2807245356: United States of America
+474761544: France
+474815805: Brazil
+437420788: Bolivia (Plurinational State of)
+437378615: Algeria
+438211454: Cuba
+438902394: Chile
+437612824: Italy
+437656942: South Africa
+437868891: Bolivia (Plurinational State of)
+439310574: France
+2430261821: United States of America
+1258695135: United States of America
+1258765954: Mexico
+3016516488: Estonia
+3016541682: Estonia
+3016568853: Estonia
+3016596549: Latvia
+439395736: United States of America
+1839476976: Mexico
+2243240526: Congo, Democratic Republic of the
+1839421989: Peru
+1839459560: Congo, Democratic Republic of the
+2430118223: United States of America
+2430412350: United States of America
+3005774322: United States of America
+2284285249: Haiti
+2512764119: Spain
+3042814259: Russian Federation
+2514810679: Netherlands
+2514056183: Malaysia
+2516750642: Netherlands
+2513614211: United States of America
+2517250185: Indonesia
+2514618329: unknown or invalid
+2513506176: unknown or invalid
+2517302912: Bonaire, Sint Eustatius and Saba
+2513520338: unknown or invalid
+2562055936: Russian Federation
+1322099762: Haiti
+3467359925: France
+2284359495: United States of America
+2397716929: Costa Rica
+1260578109: Mexico
+3125034214: United States of America
+3356836015: United States of America
+1998387245: United States of America
+1999237355: United States of America
+1998956483: Canada
+3356834058: Canada
+1998394637: United States of America
+1999253468: United States of America
+3734813368: United States of America
+3111515383: United States of America
+2234232983: Samoa
+1999262308: United States of America
+1998974785: United States of America
+1998693120: United States of America
+1701973524: Norway
+1702263060: Norway
+1702235740: Sweden
+1702357013: Sweden
+1702425560: Norway
+1702254438: Sweden
+1701477809: Norway
+2867548082: Norway
+1701706120: Norway
+1702237871: Sweden
+1702359234: Norway
+1701896120: Norway
+1702311724: Norway
+3115500317: Fiji
+2900455868: United States of America
+1675796841: French Polynesia
+1563299852: Brazil
+2512801142: United States of America
+3005755518: Guatemala
+1455960532: Brazil
+2612111434: Mexico
+1228212556: United States of America
+1424774292: United States of America
+2612115591: Peru
+1228276754: United States of America
+1228476543: Brazil
+1228576989: United States of America
+1823454475: Bolivia (Plurinational State of)
+1701729979: United States of America
+1928881910: United States of America
+1931047540: United States of America
+1929881359: United States of America
+1928479020: Cuba
+1930924863: Puerto Rico
+1929472083: United States of America
+2447314594: United States of America
+1930491842: United States of America
+1929372145: Puerto Rico
+1928581487: United States of America
+1949839092: United States of America
+1930729559: United States of America
+2597502209: Hong Kong
+1990707954: United States of America
+1500125084: Honduras
+1500170486: United States of America
+2513603274: Indonesia
+2514462780: Israel
+2514481577: Colombia
+2517671288: unknown or invalid
+2516176063: unknown or invalid
+2513046013: Cameroon
+2517838221: Switzerland
+2516233977: Indonesia
+2514398234: Croatia
+2517101413: Sweden
+2515134729: Germany
+2514464378: Indonesia
+2515744959: France
+2514086404: Indonesia
+2514242786: Solomon Islands
+2517240779: Türkiye
+2515006045: Indonesia
+2516807990: Netherlands
+2516660906: Netherlands

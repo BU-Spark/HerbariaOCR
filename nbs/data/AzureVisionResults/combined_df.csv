@@ -1,0 +1,225 @@
+,ID,Taxon,Collector,Geography,rTaxon,rCollector,rGeography,Taxon_pred_Output,Taxon_Confidence_Output,Cosine_Similarity
+0,1931124118,suaeda nigra,s watson,united states of america,suaeda torreyana wats,sereno watson,united states of america,Suaeda torreyana,0.859420895576477,0.8333333333333333
+1,1426171668,albizia niopoides,jorgensen p,paraguay,withacolabium haslevi chvad,prof pedro jorgensen,paraguay,Haslea,0.38157081604003906,0.4308202184276645
+2,2512855384,clematis ladakhiana,w n koelz,india,clematis ladakhiana greywilson,walter koelz,india,Clematis ladakhiana Grey-Wilson,0.6408135294914246,0.9049125308576026
+3,1318293083,cordia sulcata,w l abbott,dominican republic,verben,w l abbott,dominican republic,,0.0,0.0
+4,3005670412,oplismenus burmanni,c robinson,indonesia,hippogrostis amboinica,,united states of america,Eragrostis amboinica,0.6971797943115234,0.6777389936698861
+5,1318526260,tripsacum maizar, collins   kempton,mexico,tripsacum pilosum sim,j sánchezken,mexico,Tripsacum pilosum,1.0,0.7637626158259733
+6,1998333126,philadelphus coulteri,c a purpus,mexico,philadelphus purpusii brandegee,c c purpus,mexico,Philadelphus purpusii T.S.Brandegee,0.8526516556739807,0.8402614906718262
+7,1998550976,apocynum floribundum,c w jenks,united states of america,apocynum cannabinum l,fc seymour,united states of america,Apocynum cannabinum,1.0,0.8209008497548318
+8,1998969928,spiraea salicifolia,no data available,united states of america,spiraea salicifolia l,c a kofoid,united states of america,Spiraea salicifolia,1.0,0.9784921095801633
+9,2425414867,goodyera oblongifolia,a h armstrong,united states of america,epipartis decipiens,a h armstrong,united states of america,Epipactis decipiens,0.8492961525917053,0.3267826507127243
+10,1999167579,pseudoziziphus parryi,c c epling  w robinson,united states of america,condalia parryi jorr webert,c epling wm robison,united states of america,Condalia parryi,0.6905890107154846,0.6246950475544243
+11,2575053354,sambucus racemosa,b maguire  j d redd,united states of america,sambucus melanocarpa a gray,bassett maguire and j d redd,united states of america,Sambucus melanocarpa,1.0,0.8774535953713308
+12,1999283271,panicum clandestinum,kate furbish,united states of america,panicum clandestinum l,kate furbish,united states of america,,0.0,0.0
+13,3459889344,coelogyne xyrekes,a f g kerr,thailand,coelogyne zymches ride,,thailand,Coelogyne,0.658402144908905,0.820767734294955
+14,1998497875,rhus ovata,s d mckelvey,united states of america,rhus ovata wats,susan delano mckelvey,united states of america,Rhus ovata,0.7596694231033325,0.9166666666666667
+15,1999143240,antennaria neglecta,n t kidder,united states of america,,new england botanical club,united states of america,,0.0,0.0
+16,1999056693,actaea rubra,a o garrett,united states of america,actaea rubra ait willd,a o garrett,united states of america,Actaea rubra,0.664243757724762,0.9647638212377321
+17,2608673843,viburnum nudum,v l cory,united states of america,viburnum nudum l,v l cory,united states of america,Viburnum nudum,1.0,0.9666666666666667
+18,1998994775,stellaria media,l a wheeler,united states of america,stellaria media s cyrill,leston a wheeler,united states of america,Stellaria media,0.6804120540618896,0.962962962962963
+19,1998482052,silene dioica,e b harger,united states of america,lychnis vesperina tychins dioica,gh os,united states of america,,0.0,0.0
+20,1212567865,tigridia pavonia,sc,france,tigridia pavonia,antoine laurent de jussieu,france,Tigridia pavonia,1.0,0.9705882352941175
+21,2625898343,xerophyllum asphodeloides,w mcatee,united states of america,xerophyllum asphodeloides,,united states of america,Xerophyllum asphodeloides,1.0,0.980392156862745
+22,2426921679,arceuthobium americanum,p a rydberg  e a bessey,united states of america,razoumofskya americana nutt kuntze,p a rydberg ernst a bessey,united states of america,Razoumofskya minuta Kuntze,0.8409343957901001,0.7273098320775918
+23,2236147388,arctostaphylos crustacea,a eastwood  j t howell,united states of america,arctostaphylos crustacea eastw,john thomas howell alice eastwood,united states of america,Arctostaphylos crustacea,1.0,0.9832820049844602
+24,2452262576,stellaria cuspidata,o buchtien,chile,stellaria cuspidata willd,dr otto buchtien,chile,Stellaria cuspidata Willd.,0.880627453327179,0.9151333141298447
+25,1802596511,apodanthera undulata,e a mearns,mexico,cucurbita psis undulata a gr mcrov,edgar a mearns,united states of america,Cucurbita,0.5215805768966675,0.5222329678670936
+26,1456008930,stevia serrata,c seler  e seler,mexico,isevia linoides joh bija,caec et ed seler,united states of america,Stevia linoides linoides,0.487956166267395,0.5520176648479171
+27,2571435846,acaena cylindristachya,a h alston,venezuela bolivarian republic of,acaena cylindrostachya ruiz  pavon,a h g alston,venezuela,Acaena cylindrostachya Ruiz & Pav.,0.8982694745063782,0.8782753106899459
+28,2235750047,miconia calvescens,e asplund,ecuador,miconia calvescens schr  mart dc,erik asplund,ecuador,Miconia calvescens,0.773187518119812,0.9705882352941175
+29,2900445104,agrostis scabra,f h knowlton,united states of america,agrostis hyemalis watson bp,f a jnorton,united states of america,Watsonius watsoni,0.4907917380332947,0.7111590022187596
+30,1456276626,solidago altissima,p c standley,united states of america,solidago canadensis var scabra,paul c standley,united states of america,Solidago canadensis scabra,0.9410185217857361,0.8103336504181472
+31,1317278320,sidalcea asprella,w w eggleston,united states of america,sidalcea asprella greene,w w eggleston,united states of america,Sidalcea,0.9999998807907104,0.8101914936669332
+32,2900436116,agrostis stolonifera,a chase,united states of america,agrostis stolonifera l,agnes chase,united states of america,Agrostis stolonifera,1.0,0.9746794344808963
+33,2565407235,crataegus mollis,b f bush,united states of america,crataegus berlandieri sarg,b f bush,united states of america,Crataegus berlandieri,0.8909734487533569,0.7325198740332296
+34,2235813242,physalis glutinosa,c g pringle,mexico,cacabus mexicanus watson,c g pringle,mexico,Cacabus mexicanus,0.8256658911705017,0.6102571532587293
+35,2625851024,potamogeton gramineus,t howell,united states of america,potamogeton gramineus linnaeus,ecogden,united states of america,Potamogeton gramineus,0.8756946921348572,0.9743589743589743
+36,2592277723,nectandra lineata,p h allen,panama,nectandra standleyi ck allen,p h allen,panamá,Nectandra standleyi,0.8061102032661438,0.9198662110077999
+37,2643353998,agalinis tenella,a h curtiss,united states of america,agalinis tenella pennell,a h curtiss,united states of america,Agalinis tenella Pennell,1.0,0.917070056253235
+38,2284193310,polygala verticillata,w w rowlee,united states of america,polygala verticillata,ww rowlee,united states of america,Polygala verticillata,1.0,0.9795918367346939
+39,2571504032,fragaria moschata,o andersen,norway,fragaria moschata,olaf andersen,norway,Fragaria moschata,1.0,0.9743589743589743
+40,2565452643,crataegus brainerdii,j haberer,united states of america,crataegus brainerdii sarg,joseph v haberer md,united states of america,Crataegus brainerdii,0.8922848701477051,0.975
+41,1928370989,cirsium muticum,m ruger,united states of america,cirsium muticum michx,,united states of america,Cirsium muticum Michx.,0.8748003840446472,0.9322783152808269
+42,2284153322,lippia brachypoda,s venturi,argentina,lippia grisebachiana mold,s venturi,argentina,Lippia grisebachiana,1.0,0.820922069065183
+43,2549491705,parnassia palustris,j macoun,canada,parnassia palustris l,john macoun,canada,Parnassia palustris,1.0,0.9793792286287206
+44,2397800089,quercus rugosa,j w toumey,united states of america,quercus reticulata,j w toumey,united states of america,Quercus reticulata,0.9999999403953552,0.7701540462154054
+45,1319864119,panicum itatiaiae,a chase,brazil,panicumitatiaiae swallen,agnes chase,brazil,Panicum itatiaiae,0.8608565926551819,0.9767441860465118
+46,1318182025,hohenbergia antillana,n l britton e g britton  m s brown,puerto rico,hohenbergia antillana mez,n l britton e g britton margaret s brown,puerto rico,Hohenbergia antillana Mez,1.0,0.9440847091783918
+47,1999413720,potamogeton diversifolius,g w stevens,united states of america,potamogeton dimorphie raf,g w stevens,united states of america,,0.0,0.0
+48,2446828060,bartonia paniculata,m l fernald e b bartram  b h long,canada,bartonia paniculata whichx rol,m l fernald and b long,canada,Bartonia paniculata,1.0,0.9777777777777777
+49,2012879889,fraxinus profunda,e l braun,united states of america,fraxinus profunda,e lucy braun,united states of america,Fraxinus profunda,1.0,0.9622504486493761
+50,1998481102,atriplex prostrata,kate furbish,united states of america,atriplex patula l var hastata,kate furbish,united states of america,Atriplex hastata patula,0.8220364451408386,0.8723536340342545
+51,1999047345,digitaria sanguinalis,r w woodward,united states of america,biura sanguinali l scop,r woodward,united states of america,Pyrausta sanguinalis sanguinalis,0.5578426122665405,0.8988645523557808
+52,1998758107,cirsium vulgare,a f hill,united states of america,cirsium lanceolatum l hill,a f hill,united states of america,Cirsium lanceolatum,0.8751574754714966,0.810440898473108
+53,1998465329,actaea rubra,e b chamberlain,united states of america,cetra spicata var rubra,edward b chamberlain,united states of america,Spicaria rubra,0.6272969245910645,0.8153742483272113
+54,1999317509,boechera stricta,h d house,united states of america,arabia drummondii pay,h d house,united states of america,Arabis drummondii drummondii,0.9180309176445007,0.4018071877159229
+55,1999028044,clarkia xantiana,f v coville  f funston,united states of america,clarkia xantiana truy,samuel b parish,united states of america,Clarkia xantiana,0.8138471841812134,0.975
+56,2859305213,solidago patula,jennings oe jennings gk,united states of america,solidago patala mall,o e jennings gk jennings,united states of america,Solidago patula,0.8423393964767456,0.96
+57,2859014941,cladium mariscoides,dreisbach rr,united states of america,cladium mariscoides,r r dreisbach,united states of america,Cladium mariscoides,0.9999999403953552,0.9710083124552245
+58,2858981761,panicum acuminatum,berkheimer d,united states of america,panicum manuginosom var implication,david berkheimer,united states of america,Panicum lanuginosum,0.7244481444358826,0.8624886920341298
+59,2859205685,solanum carolinense,holmes kr,united states of america,solanum carolinense,katharina r holmes,united states of america,Solanum carolinense,0.9999999403953552,0.9710083124552245
+60,2235995189,rauvolfia tetraphylla,r vines,mexico,rauwolfia canescens l,robert a vines,mexico,Rauwolfia,0.8558990955352783,0.6897007348075543
+61,3092956655,chloris virgata,g r vasey,united states of america,chloris barbata,,united states of america,Chloris barbata,1.0,0.7855844048495726
+62,1318027385,cuscuta gronovii,e s steele,united states of america,cuscuta arvensis beyrich,e s steele,united states of america,Cuscuta arvensis Beyrich ex Hook.,0.8517163395881653,0.7372097807744857
+63,1321746477,miconia coniophora,e l ekman,haiti,miconia consophora urb  e ekman,e l ekman,haiti,Miconia coniophora Urb. & Ekman,0.7213984131813049,0.8792249355666623
+64,3467354375,rhizomnium punctatum,h möller,sweden,nimm puntatum 2 pick,hj möller,sweden,,0.0,0.0
+65,2625852862,cistanche salsa,r c ching,china,philipaca salsa c a my,r c ching,china,,0.0,0.0
+66,2452236904,silene douglasii,j s cotton,united states of america,silene douglasii hook ssp typ,j s cotton,united states of america,Silene douglasii,1.0,0.9636241116594315
+67,2284326054,mangifera indica,p white,panama,mangifera indica l,peggy white,panama,Mangifera indica,1.0,0.9666666666666667
+68,2235755905,abuta grandifolia,a ducke,brazil,abuta grandifolia mart spruce,a ducke,brazil,Abuta grandifolia,0.7263147234916687,0.9698686309445845
+69,1318797445,drymaria cordata,h e box,antigua and barbuda,drymaria cordata l willd,harold e box,antigua british west indies,Drymaria cordata,0.7292751669883728,0.97182531580755
+70,2284189808,asemeia ovata,m tommassini,croatia,polygala nicæensis risso,f schultz m de tommassini,austria,Polygala nicaeensis Risso ex Koch & Risso,0.8018414974212646,0.6073201818814866
+71,2549496787,philadelphus microphyllus,v duran,united states of america,philadelphus microphyllus gray,victor duran,united states of america,Philadelphus microphyllus,1.0,0.9818313856641692
+72,2397779786,quercus stellata,i f tidestrom,united states of america,quercus stellata wang,ivar tidestrom,united states of america,Quercus stellata,0.8449321389198303,0.9642857142857142
+73,1319210580,phyllanthus acidus,h m curran,brazil,phyllanthus distichus muellarg,h m curran,brazil,Phyllanthus distichus,0.8016918301582336,0.9149360709564807
+74,3092906623,sporobolus clandestinus,d eyles  m eyles,united states of america,sporobolus clandestinus spreng hitche,d e and m s eyles,united states of america,Sporobolus clandestinus,0.8616836667060852,0.9795522313532565
+75,2235965636,pyrola asarifolia,w forwood,united states of america,p asarifolia michx,erich haber,canada,Pyrola asarifolia Michx.,0.6097506284713745,0.9067315822017904
+76,2625876902,yucca baccata,a nelson  r a nelson,united states of america,yucca arizonica mckelvey,,united states of america,Yucca arizonica McKelvey,1.0,0.7593263966019993
+77,2625904355,juncus rugulosus,h p chandler,united states of america,juncus vurgulasus engelm,hp chandler,united states of america,Juncus rugulosus Engelm.,0.537455141544342,0.9117460107822462
+78,2235956175,vaccinium erythrocarpum,w cannon,united states of america,oxy coccus erythrocarpus mula pero,w a cannon,united states of america,Coccus,0.61305832862854,0.48524747941547286
+79,2512820352,boechera perennans,j w gillespie,united states of america,arabis gracilipas quins,j w gillespie,united states of america,Arabis gracilis,0.6778637766838074,0.39557740264262
+80,2235866543,labisia pumila,rahmat si boeea,indonesia,labisia pumila bl fvill,rahmat si boeea,indonesia,Labisia pumila,0.7085047364234924,0.9636241116594315
+81,2426902656,boerhavia torreyana,j n rose  w r fitch,united states of america,boerhaavia torreyana standley,j n rose wm r fitch,united states of america,Boerhavia torreyana,0.8162525296211243,0.9756097560975611
+82,2549492260,saxifraga bronchialis,p hagelbarger,united states of america,saxi fraga bronchialis wild,p r hagelbarger,united states of america,Saxifraga bronchialis bronchialis,0.8344116806983948,0.9700534376881639
+83,1318212360,cyathea squamipes,k von sneidern,colombia,cyathea caracasana var boliviensis rosenst tryon,kjell von sneidern,colombia,Cyathea caracasana boliviensis,0.7842660546302795,0.8226366627527563
+84,2848506530,stipa przewalskyi,t tang,china,štika przewalski rasher,t tang,china,Przewalskia,0.6104220747947693,0.7765802747153208
+85,3005727173,panicum aciculare,r combs,united states of america,panicum fusiforme hitchc,731,united states of america,Panicum fusiforme Hitchc.,0.9151937961578369,0.7525489793561388
+86,1455174725,polystichum acrostichoides,j b mcconnell,canada,,j b mcconnell,canada,,0.0,0.0
+87,2284154890,nemophila pulchella,l constance  h l mason,united states of america,nemophila pulchella eastwood,h l mason l constance,united states of america,Nemophila pulchella Eastw.,0.7907509803771973,0.9104369629528715
+88,2900461439,poa secunda,a eastwood,united states of america,poa secunda ssp secunda var scabrella thurb soreng,,united states of america,Scabrella,0.6855131983757019,0.46153846153846156
+89,2236031445,elliottia pyroliflora,e p walker  e walker,united states of america,elliottia pyroliflora bongard brim,mr and mrs ernest p walker,united states of america,Elliottia pyroliflora,0.7632536292076111,0.980392156862745
+90,1843567618,solanum jamesii,p c standley,united states of america,solanum jamesii torr,paul c standley,united states of america,Solanum jamesii Torr.,0.8655515313148499,0.834847109936722
+91,2512804326,ranunculus fascicularis,l f ward,united states of america,ranunculus fascicularis,lester j hard,united states of america,Ranunculus fascicularis,0.9999999403953552,0.9834699358669275
+92,1322958063,varronia linnaei,e c leonard,haiti,cordia polycephala lam im johnst,e c leonard,haiti,Cordia polycephala,0.6600944995880127,0.6085806194501846
+93,2512759946,clematis ligusticifolia,f w johnson,united states of america,clematis ligusticifolia nuttall,frank w johnson,united states of america,Clematis ligusticifolia var. brevifolia Nuttall,0.8730682134628296,0.90597733148574
+94,2512761763,clematis occidentalis,anselme,canada,atragene americana sims,fr anselme,canada,Atragene americana,1.0,0.6269156688215357
+95,1852124166,solanum splendens,l kenover,panama,cyphomandra heterophylla d sm,lynn bohs,panama,Cyphomandra heterophylla,0.7708359360694885,0.5276448530110863
+96,2236057326,donnellsmithia juncea,m bourgeau,mexico,donnellsmithia pensedanoides kunth msc,m bourgeau,mexico,Donnellsmithia peucedanoides,0.6633538007736206,0.9230784000933474
+97,3043554903,hemarthria compressa,j nusker,india,hemarthria compressa lf r br,d masker,india,Hemarthria compressa,0.9211224317550659,0.9746794344808963
+98,1318373170,miconia elaeagnoides,e l ekman,haiti,tetrazygia elsae agnoides pv cc,,haiti,Tetrazygia eleagnoides,0.7978360056877136,0.8606978946185855
+99,3357284466,muhlenbergia richardsonis,c f baker,united states of america,muhlenbergia richardsonis trin rydb,c f baker,united states of america,Muhlenbergia richardsonis Rydb.,0.8293401598930359,0.9305102152735633
+100,1930449245,trichilia pallida,g v nash,haiti,prichilia fallida sev,george v nash,haiti,Trichilia pallida,0.7031567096710205,0.9756097560975611
+101,1320460457,phyllanthus amarus,e c leonard,haiti,phyllanthus swarzii kostel,e c leonard,haiti,Phyllanthus swartzii Kostel.,0.7439751625061035,0.7698003589195009
+102,1702851818,palicourea elata,p c standley  r torres rojas,costa rica,cephaëlis elata sw,paul c standley rubén torres r,costa rica,Cephaelis elata,0.48195576667785645,0.8534918135881966
+103,1927799942,echinopepon insularis,e palmer,mexico,echinopepon insularis,dr edward palmer,mexico,Echinopepon insularis,1.0,0.9753048303966929
+104,1928276301,peperomia muscipara,e p killip,colombia,peperomia muscipara trel,ellsworth p killip,colombia,Peperomia muscipara,0.8970407247543335,0.9743975315293801
+105,1928034398,castilleja organorum,p c standley,united states of america,castilleia integra,p c s,united states of america,Castilleja integra integra,0.7843460440635681,0.8051091587951024
+106,1998729261,amelanchier laevis,f c seymour,united states of america,amelanchier laevis wiegand,f c seymour,united states of america,Amelanchier laevis Wiegand,1.0,0.9396159594539165
+107,1998968996,platanthera flava,c h knowlton,united states of america,habemaria flava 2 gray,clarence h knowlton,united states of america,Habenaria flava,0.7641785144805908,0.8711400676249502
+108,2425445076,calopogon tuberosus,a a eaton,united states of america,calopogon tuberosus var simpsonii small magrath,a a eaton,united states of america,Calopogon tuberosus simpsonii,0.9471838474273682,0.8783100656536798
+109,1998882868,carex laxiculmis,c wright,united states of america,carex laxiculmis schweins,robert f c naczi,united states of america,Carex laxiculmis Schwein.,0.90498286485672,0.8972229068318688
+110,1999105588,scheuchzeria palustris,c h bissell,united states of america,icheuchzena palustria,c h bissell,united states of america,Scheuchzeria palustris,0.7944985032081604,0.9762210399274298
+111,1998590947,solidago uliginosa,a s pease,united states of america,solidago neglecta t g,a s pease,united states of america,Solidago neglecta,0.9999998807907104,0.7492686492653552
+112,1998818359,amelanchier utahensis,c b wolf,united states of america,amelanchier utahensis koehne,carl b wolf,united states of america,Amelanchier utahensis Koehne,0.9999999403953552,0.9280036733712484
+113,1998308840,juncus articulatus,m a day,united states of america,juncus articulatus l,m a day,united states of america,Juncus articulatus,1.0,0.9736842105263159
+114,1998543749,acer negundo,e b chamberlain,united states of america,negundo aceroides moench,e b chamberlain,united states of america,Negundo aceroides,1.0,0.8660254037844386
+115,1999410499,stellaria crassifolia,j wolf  j t rothrock,united states of america,s crascifolia sinh,e bourgeau,canada,Sinapis crassifolia,0.4564482569694519,0.8797861641347265
+116,2425404585,lysimachia maritima,e f williams  m l fernald,canada,glaux maritima var obtusifolia fernald,e f williams m l fernald,canada,Glaux maritima var. obtusifolia Fern.,0.836283802986145,0.7753148860571065
+117,1999314245,carex aurea,c a weatherby,united states of america,carex aurea nutt,c a weatherby,united states of america,Carex aurea Nutt.,0.8479421734809875,0.835710894037345
+118,2573054178,quercus alba,w w eggleston,united states of america,quercus alba,willard w eggleston,united states of america,Quercus alba,1.0,0.9375
+119,2236018163,flacourtia rukam,h h bartlett,indonesia,flacourtia rakam,h h bartlett,indonesia,Flacourtia,0.7532743215560913,0.8492077756084468
+120,1318393575,ditaxis argothamnoides,f w pennell,colombia,argythamnia cochensis j r johnston,francis w pennell,colombia,Argythamnia cochensis,1.0,0.7789621985578676
+121,1676047656,passiflora holosericea,c conzatti,mexico,passiflora holosericea l,prof c conzalli,mexico,Passiflora holosericea,1.0,0.9791666666666667
+122,1317746297,croton californicus,i l wiggins,mexico,croton californicus tenuis swats feng,ira l wiggins,mexico,Croton californicus tenuis,0.7522563934326172,0.9226870278438684
+123,2426886454,amaranthus palmeri,b f bush,united states of america,amaranthus balmain s wat,j d sauer,united states of america,Amaranthus,0.5294904112815857,0.8416254115301731
+124,2452230713,silene cappadocica,e bourgeau,türkiye,silene cappadocia,c bourgeon,united states of america,,0.0,0.0
+125,1426052966,castilleja arachnoidea,pennell francis whittier,united states of america,castilleja eastwoodiana pennell,francis w pennell,united states of america,Castilleja eastwoodiana Pennell,1.0,0.8598492073268774
+126,2265509546,poa pratensis,congdon j,united states of america,poa pratensis,jw congdon,united states of america,Poa pratensis,0.9999999403953552,0.9459053029269171
+127,2265485412,blephilia hirsuta,lyon h,united states of america,blephilia hirsuta pursh torr,hs lyon,united states of america,Blephilia hirsuta,0.7299878001213074,0.9655172413793104
+128,2265588715,hieracium longipilum,rosendahl c,united states of america,hieracium longipilum torrey ex hooker,co rosendahl,united states of america,Hieracium longipilum Torr.,0.8582419753074646,0.9050971106611133
+129,2265566552,cyperus retrofractus,biltmore herb,united states of america,cyperus retrofractus torr,biltmore herbarium,united states of america,,0.0,0.0
+130,1930277693,phlegmariurus linifolius,f von egger,cuba,lycopodium linifolium,eggers,cuba,Lycopodium linifolium,1.0,0.7648808633001187
+131,1929084979,peperomia heterophylla,t g yuncker,honduras,peperomia heterophylla mia,t g yuncker r f dawson h r youse,honduras,Peperomia heterophylla,0.9580529928207397,0.9800177460682513
+132,1426166249,dalea polygonoides,wright charles,united states of america,dalea polygonoides ggray,pl wright,united states of america,Dalea polygonoides,0.7291814088821411,0.968245836551854
+133,2236950433,acer spicatum,j w adams,united states of america,acer spicatum jam,j w adams,united states of america,Acer spicatum,0.9999999403953552,0.9393364366277241
+134,1998843424,sorbus americana,m l fernald,united states of america,cyrus americana marsh dc,m l fernald,united states of america,Pyrus americana,0.7743860483169556,0.8996469021204838
+135,1998543588,pilea pumila,f blanchard,united states of america,pilea pumila l gray,g blanchard m o peacham,united states of america,Pilea pumila,0.8123594522476196,0.9486832980505139
+136,2425435971,agalinis maritima,w l c muenscher  o f curtis,united states of america,agalinus tenuifolia vahl raf,w c muenscher and o f curtis jr,united states of america,Agalinis tenuifolia Vahl,0.8307726979255676,0.8036143754318459
+137,2446819762,dalea lanata,g w stevens,united states of america,parosela lavata spreng brit,g w stevens,united states of america,Parosela,0.5906257033348083,0.7050239879106325
+138,1999401722,carex gynandra,c h bissell,united states of america,crinata lapas var caux dannandra schreber schrodin  torrey,c h bissell,united states of america,,0.0,0.0
+139,2575086103,melampyrum lineare,biltmore herbarium,united states of america,melampyrum latifolium muhl,biltmore herbarium,united states of america,Melampyrum,1.0,0.8660254037844387
+140,1998565761,erysimum perenne,w h brewer,united states of america,erysimum arkansamum,w h brewer,united states of america,Erysimum arkansanum,0.8540704846382141,0.5766967882001441
+141,1999130856,stellaria ruscifolia,f j hermann,united states of america,stellaria umbellata turcy,tj hermann,united states of america,Stellaria umbellata,0.7676823735237122,0.7877609890611015
+142,3341239321,solidago rugosa,unknown,united states of america,impeta polita,,united states of america,Polita,0.6643518209457397,0.5499719409228704
+143,3341248414,stellaria graminea,dana w fellows,united states of america,stellaria graminea l,d w fellows,united states of america,Stellaria graminea,1.0,0.9736842105263159
+144,3341257544,populus nigra,philip dowell william t davis,united states of america,populus migra l,philip dowell,united states of america,Populus nigra,0.7881665825843811,0.9393364366277241
+145,2235847388,styrax americanus,e j palmer,united states of america,styrax americana lam,e j palmer,united states of america,Styrax americanus,0.8106234669685364,0.9622504486493761
+146,1456376042,artemisia ludoviciana,j h sandberg d t macdougal  a a heller,united states of america,artemisia graphalodes kutt,i h sandberg,united states of america,,0.0,0.0
+147,1563240212,inga feuillei,o f cook  g b gilbert,peru,inga feuillei m,g b gilbert o f cook,peru,Inga feuilleei,0.8412593603134155,0.9363821838346236
+148,2592238071,lemna trisulca,e c leonard,united states of america,lemna trisulca l lemna minor l,e c leonard,united states of america,Lemna trisulca,0.8293567299842834,0.9428090415820635
+149,1322630109,tilia americana,e j palmer,united states of america,tilia ifprophylla vent small,e j palmer,united states of america,Tilia macrophylla,0.6792839765548706,0.7816317493509032
+150,2848440467,lolium perenne,w n suksdorf,united states of america,lolium perenne l,,united states of america,Lolium perenne,0.9999999403953552,0.9574271077563381
+151,1702827727,chiococca alba,c l lundell,mexico,chiococca alba l hitchc,,mexico,Chiococca alba Hitchc.,0.8181087374687195,0.9396159594539165
+152,2625873744,maianthemum stellatum,a nelson,united states of america,maianthemum stellatum l link,aven nelson,united states of america,Maianthemum stellatum,0.865428626537323,0.9810847227000674
+153,1318345053,carya glabra,l f ward,united states of america,carya glabra see c ovalis,lester f ward,united states of america,Carya,1.0,0.8153742483272113
+154,1321992876,frankenia palmeri,j n rose,mexico,francenia palmeri b wat,j n rose,mexico,Frankenia palmeri,0.557654082775116,0.9677419354838711
+155,2397724211,alnus acuminata,k fiebrig,bolivia plurinational state of,aluno forallensis var opachi rgl,k fiebrig,bolivia,Malthodes allenspachi,0.26128053665161133,0.6614769048245084
+156,1317726996,clermontia persicifolia,c n forbes,united states of america,clermontia persicifolia gand,c n forbes,united states of america,Clermontia persicifolia,0.8989991545677185,0.9784921095801633
+157,2425437928,cuscuta gronovii,a s goodale  m hopkins,united states of america,cuscuta polygonorum engeland,a s goodale m hopkins,united states of america,Cuscuta polygonorum Engelm.,0.8282272815704346,0.6998542122237652
+158,1999110359,xyris difformis,j w robbins,united states of america,not provided,not provided,united states of america,,0.0,0.0
+159,1998611243,crataegus iracunda,h t brown,united states of america,crataquabrathinaim,henry j brown,united states of america,Crathis,0.41706812381744385,0.5669467095138409
+160,1999032409,scirpus pedicellatus,e brainerd,united states of america,sairfus pedicellatus var fullas fernand,ezra brainerd,united states of america,Monosporus pedicellatus var. pedicellatus,0.47225654125213623,0.8998425413316951
+161,3703056529,chenopodium album,m l fernald  k m wiegand h t darlington,canada,chenopodium album x,m l fernald k m wiegand,canada,Chenopodium album,1.0,0.9565217391304349
+162,1998467065,chimaphila menziesii,mrs r m austin,united states of america,chimaphila menziesii,casick organ,united states of america,Chimaphila menziesii,1.0,0.9791666666666667
+163,1998686142,calamagrostis canadensis,j r churchill,united states of america,calamagrostis langsdorffii link,jr churchill,united states of america,Calamagrostis langsdorffii,1.0,0.8525735865191388
+164,1998387136,symphyotrichum pilosum,j murdoch jr,united states of america,aster ericoides l,will smith bettink,united states of america,Aster ericoides,1.0,0.44543540318737396
+165,1998808952,crataegus pruinosa,r e horsey,united states of america,brataegus trachypola sag,r elfforse,united states of america,Crataegus brachypoda,0.6529660224914551,0.8454027929649518
+166,2575039168,ulmus crassifolia,m e jones,united states of america,prunus glandulosa t g,marous e jenes,united states of america,Prunus glandulosa,0.8454617857933044,0.7419354838709679
+167,1999154508,crataegus uniflora,c s sargent,united states of america,crataegus uniflora muenchh,,united states of america,Crataegus uniflora,0.8025756478309631,0.9642857142857142
+168,1999217275,crepis acuminata,c w sharsmith,united states of america,crepis intermedia gray apm sierrae,c w sharsmith,united states of america,Crepis intermedia,1.0,0.704469953676347
+169,1998646322,heuchera pilosissima,f j youngberg,united states of america,heuchera pilosissima f  m,f youngberg,united states of america,Heuchera pilosissima,1.0,0.9733285267845754
+170,1998370401,crataegus schuettei,w h blanchard,united states of america,crbyen edame,w h blanchard,united states of america,,0.0,0.0
+171,3392122454,persicaria maculosa,f vincent,canada,persicaria l,f vincent,canada,Persicaria,0.9999999403953552,0.8406728074767075
+172,3385632342,prosthechea ochracea,o nagel,mexico,prostechea ochracea lindl w e higgins,otto nagel,mexico,Prosthechea ochracea,0.7097002267837524,0.9791666666666667
+173,2012884607,halerpestes cymbalaria,c c plitt,united states of america,ranunculus pusillus poir,cc plia,united states of america,Ranunculus pusillus Poir.,0.8819283246994019,0.44582257006028225
+174,1998980522,crataegus pruinosa,c s sargent,united states of america,crajacques primera,r koch,united states of america,,0.0,0.0
+175,2426917844,dysphania ambrosioides,e p killip  a c smith,colombia,chenopodium ambrosiodes l,,colombia,,0.0,0.0
+176,2284150251,polygonum douglasii,p a rydberg  a o garrett,united states of america,polygonum montanum greene,p a rydberg  a o garrett,united states of america,Polygonum montanum,0.8479270935058594,0.7342172431423766
+177,1852143901,sanchezia parvibracteata,j cuatrecasas,colombia,sanchezia parvibracteata sprague,j cuatrecasas,colombia,Sanchezia parvibracteata Sprague & Hutch.,0.8837081789970398,0.9024621789837645
+178,1456250583,helenium puberulum,l ward,united states of america,helenium decurrens less vatke,i f ward,united states of america,,0.0,0.0
+179,1318334082,pilea inaequalis,w l abbott,dominican republic,pilea repens sw wedd,w l abbott,dominican republic,Pilea repens,0.6956129670143127,0.75
+180,2549483800,ribes hudsonianum,a muller,canada,rules hudsonianum rebord,adolf müller,canada,,0.0,0.0
+181,2595756978,cyperus odoratus,c f parker,united states of america,cyperus odoratus l,c f parker,united states of america,Cyperus odoratus,0.9999998807907104,0.9583333333333335
+182,1990824315,lygodesmia juncea,cs crandall,united states of america,lygodesmia juncea pursh don ex hook,prof c s crandall,united states of america,Lygodesmia juncea,0.8408058285713196,0.9523809523809526
+183,2236597761,centaurium pulchellum,e b bartsam,united states of america,centaurium pulchellum sur,e b bartram,united states of america,Centaurium pulchellum,1.0,0.9775252199076786
+184,1990809725,gentiana saponaria,walter m rankin,united states of america,gentiana saponaria l,myhough,united states of america,Gentiana saponaria,1.0,0.9782608695652174
+185,1929709919,herbertus serratus,h h rusby,bolivia plurinational state of,schisma serratum,hh rusby md,bolivia,Schisma serratum,1.0,0.7524115817860576
+186,1319326174,asclepias subverticillata,e a mearns,united states of america,asclepias subverticillata a gray vail,edgar a mearns,united states of america,Asclepias subverticillata Vail,0.8725256323814392,0.973417168333576
+187,2452332496,anredera vesicaria,g p goll o f cook  g n collins,puerto rico,anredera vesicaria lam gaertner,p acevedordgz,united states of america,Anredera vesicaria,0.7500828504562378,0.978231976089037
+188,1317840733,elymus hystrix,a s hitchcock  a chase,united states of america,elymus hystrix l,unknown,united states of america,Elymus hystrix,1.0,0.9444444444444446
+189,2235846679,ocotea brachybotra,m barreto,brazil,ocater brachybatra meg,mello barreto,brazil,,0.0,0.0
+190,1320104750,sida jussiaeana,p c standley,panama,sida decumbens sthil  naud,paul c standley,panama,Sida decumbens,0.713459849357605,0.6374552583116766
+191,2236156450,comarostaphylis diversifolia,c b wolf,united states of america,comarostaphylis diversifolia parry greene subsp planifolia jeps g wallace,carl b wolf,united states of america,Comarostaphylis diversifolia Greene,0.912467360496521,0.9122614681554039
+192,2236024256,chaetogastra mollis,e asplund,ecuador,tibouchina mollis bonpl cogn,erik asplund,ecuador,Tibouchina mollis Cogn.,0.6603546738624573,0.6524726973924442
+193,2236116492,calystegia sepium,e o wooton,united states of america,convolvulus sepium l,,united states of america,Convolvulus sepium,1.0,0.565685424949238
+194,437160969,myrtopsis pomaderridifolia,schlechter frr,new caledonia,myrtopsis pomaderridifolia baill guillaumin,r schlechter,france,Myrtopsis pomaderridifolia (Baill.) Guillaumin,0.9107810258865356,0.8701765379549182
+195,2848503382,vulpia myuros,g r vasey,united states of america,festuca myuros linn,,united states of america,Festuca myuros,0.8947186470031738,0.7302967433402215
+196,2452293722,ranunculus hispidus,h d house,united states of america,ranunculus hispidus michaux var hispidus,h d house,united states of america,Ranunculus hispidus hispidus,0.8783635497093201,0.95480527676127
+197,1322253698,embelia pacifica,j f rock,united states of america,embelia pacifica hillebrand,j f rock,united states of america,Embelia pacifica Hillebr.,0.8719266653060913,0.9131711662921516
+198,1929883118,symphyotrichum ontarionis,h k d eggert,united states of america,aster missouriensis britten,h eggert,united states of america,Aster missouriensis Britton,0.8587844371795654,0.771964708419319
+199,1928246346,brachyotum nutans,f w pennell,peru,brachyotum nutans gleason,francis w pennell,peru,Brachyotum nutans Gleason,1.0,0.9043629472869463
+200,2397721138,quercus stellata,h oneill,united states of america,quercus stellata wang,hugh oneill,united states of america,Quercus stellata,0.8449321389198303,0.9642857142857142
+201,3005768358,panicum stapfianum,collector unknown,united states of america,panicum minus staff,mc neill mies,africa,,0.0,0.0
+202,2643351883,aphyllon uniflorum,e a mcgregor,united states of america,phyllos miflorum,e a mcgregor,united states of america,Calophyllum ramiflorum,0.6087144017219543,0.8696263565463044
+203,2452246731,claytonia rubra,a a heller,united states of america,claytonia rubra ssp rubra howell tidestrom,a a heller,united states of america,Claytonia rubra rubra,0.8291801810264587,0.934331459958054
+204,3005774322,panicum commutatum,a chase,united states of america,panicum ashei pearson,agnes chase,united states of america,Panicum ashei G.Pearson,0.8345205783843994,0.5301589619830679
+205,2284285249,stigmaphyllon bannisterioides,e c leonard  g m leonard,haiti,stigmaphyllon bannisterioides l c anderson,emery c leonard genevieve m leonard,haiti,Stigmaphyllon bannisterioides,1.0,0.9841356626102458
+206,2512764119,cochlearia anglica,e mouillefarine,spain,cichliaria anglica q,e mouillefarine,spain,Cicada anglica,0.6377000212669373,0.8948929172439198
+207,2284359495,phyla cuneifolia,w over,united states of america,phyla cuneifolia torr greene,w h over,united states of america,Phyla cuneifolia Greene,0.7724546194076538,0.8263342440128467
+208,3356836015,vicia americana,e b payson  l e b payson,united states of america,vicia americana muhl ex willd var americana,edwin b payson lois b payson,united states of america,Vicia americana americana,0.765712559223175,0.9711631658670145
+209,1998387245,trichostema brachiatum,a a heller,united states of america,trichostema brachiatum l,a a heller,united states of america,Trichostema brachiatum,1.0,0.9772991539767322
+210,1998956483,arctostaphylos uvaursi,j l c m victorin,canada,arctostaphylos uvaursi l spreng,frm victorin,canada,Arctostaphylos uva-ursi (L.) Spreng.,0.660009503364563,0.8357108940373449
+211,1998394637,carex scabriuscula,j t howell,united states of america,carex gigas holm mackenzie,john thomas howell,united states of america,Carex fracta Mackenzie,0.662937581539154,0.712636121415336
+212,1999253468,viola odorata,e b harger,united states of america,viola odorata l,e b harger,united states of america,Viola odorata,0.811907947063446,0.96
+213,3734813368,juncus dudleyi,n c fassett,united states of america,juncus dudleyi wieg,n c fassent,united states of america,Juncus dudleyi Wiegand,0.8469219207763672,0.8882347881956881
+214,3111515383,alloberberis trifoliolata,c s sargent,united states of america,berberis trifoliata,c s sargent,united states of america,Berberis trifoliata,1.0,0.8837194490007302
+215,2234232983,macropiper puberulum,wilkes expedition,samoa,piper macropiper latifolium,u s south pacific exploring expedition,samoa,Macropiper latifolium,0.9311297535896301,0.7610194341477616
+216,1999262308,paronychia sessiliflora,w m canby,united states of america,paronychia resiliflora mit,e bourgean,united states of america,Paronychia sessiliflora,0.8164463639259338,0.9787234042553192
+217,2900455868,cinna arundinacea,g b sudworth,united states of america,cinna arundinacea l,gb sudworth,united states of america,Cinna arundinacea,1.0,0.9775252199076786
+218,1563299852,inga nobilis,b a krukoff,brazil,inga nobilis willd,b a krukoff,brazil,Inga nobilis Willd.,0.859817385673523,0.8693182879212226
+219,2512801142,rorippa palustris,f clements,united states of america,nasturtium palustre l dc,fred clements,united states of america,Nasturtium palustre,1.0,0.7502895194085833
+220,3005755518,paspalum decumbens,h f pittier,guatemala,paspalum decumbens swartz,h pittier,guatemala,Paspalum decumbens,0.7842979431152344,0.9660917830792958
+221,1455960532,tapirira obtusa,f c hoehne,brazil,tapirira marchandii engl,f c hoehne,brasil,Tapirira marchandii Engl.,0.8488303422927856,0.7265911604027345
+222,1929881359,acer saccharum,m e wharton,united states of america,acer saccharum marsh,mary e wharton,united states of america,Acer saccharum,1.0,0.9643959372630745
+223,1928479020,cirsium mexicanum,j g jack,cuba,cirsium mexicanum dc,j g jack,cuba,Cirsium mexicanum,1.0,0.9692233691951199

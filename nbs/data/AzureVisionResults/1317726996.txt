@@ -1,0 +1,20 @@
+```json
+{
+  "country": "United States",
+  "institutionCode": "US",
+  "collectionCode": "Smithsonian Institution",
+  "catalogNumber": "1627083",
+  "scientificName": "Clermontia persicifolia Gand.",
+  "recordedBy": "C. N. Forbes",
+  "eventDate": "1912-04-26/1912-05-16",
+  "locality": "Oahu",
+  "decimalLatitude": "",
+  "decimalLongitude": "",
+  "coordinateUncertaintyInMeters": "",
+  "minimumElevationInMeters": "",
+  "maximumElevationInMeters": "",
+  "occurrenceID": "",
+  "otherCatalogNumbers": "OL0207",
+  "associatedMedia": "00427028"
+}
+```

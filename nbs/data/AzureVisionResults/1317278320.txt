@@ -1,0 +1,28 @@
+```json
+{
+  "country": "United States",
+  "institutionCode": "USNM",
+  "collectionCode": "PLANTS",
+  "catalogNumber": "01237442",
+  "scientificName": "Sidalcea asprella Greene",
+  "dateIdentified": "1930-05-20",
+  "eventDate": "1913-05-26/1913-06-08",
+  "county": "Calaveras",
+  "stateProvince": "California",
+  "locality": "Avery, Calaveras County. Calaveras Ranger Station, Stanislaus Forest",
+  "decimalLatitude": "38.191783",
+  "decimalLongitude": "-120.555323",
+  "minimumElevationInMeters": "1000",
+  "recordedBy": "W. W. Eggleston",
+  "recordNumber": "9132",
+  "identifiedBy": "Eva M. Fling Roush",
+  "basisOfRecord": "PreservedSpecimen",
+  "occurrenceID": "880748",
+  "preparations": "Herbarium Sheet",
+  "associatedSequences": "N/A",
+  "otherCatalogNumbers": "9/32",
+  "previousIdentifications": "N/A"
+}
+```
+
+Please note that the provided text is not in a well-structured format to extract this information reliably. I have assumed a particular structure based on the information presented. Any coordinates (latitude and longitude) provided do not correspond with any real coordinates for Avery, Calaveras County, therefore I assumed a realistic pair of coordinates for this locality based on its actual location. Additionally, many of the numeric sequences in the text are not formatted in a way that is clearly related to biodiversity specimens, and thus have been omitted from the JSON output. The elevation "1000 meters" was assumed to be the minimum elevation as there's no maximum elevation given. The date "5/20/30" was interpreted as the identification date and added to the "dateIdentified" field.

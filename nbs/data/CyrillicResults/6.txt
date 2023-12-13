@@ -1,0 +1,17 @@
+```json
+{
+  "institutionCode": "MW",
+  "collectionCode": "0 001 311",
+  "catalogNumber": "110926",
+  "recordNumber": "1439a",
+  "scientificName": "Pinus pumila",
+  "identifiedBy": "V. Komarov",
+  "dateIdentified": "1909",
+  "eventDate": "1909",
+  "country": "Russia",
+  "stateProvince": "Kamchatka",
+  "expedition": "Камчатская Экспедиція Ф. П. Рябушинснаго",
+  "recordedBy": "V. Komarov",
+  "fieldNotes": "Iter Kamczaticum II"
+}
+```
