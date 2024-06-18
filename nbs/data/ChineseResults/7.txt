@@ -1,0 +1,13 @@
+Based on the text provided, there is not sufficient information to fill out a Darwin Core record. The Darwin Core standard requires specific information about biodiversity specimens, such as the scientific name, the collector's name, the date of collection, and the location of collection, among other details.
+
+From the text given, we can infer an identifier ("Nº 1373146"), which could be considered a catalogue number or an occurrence ID. However, without additional context, it is not possible to infer the country or other relevant Darwin Core fields from the number alone.
+
+Here is a JSON representation of the limited information available, using an assumed field "catalogNumber" for the identifier:
+
+```json
+{
+  "catalogNumber": "1373146"
+}
+```
+
+Should you be able to provide additional context or details from the specimen record, I could then translate that into a more complete Darwin Core JSON structure.

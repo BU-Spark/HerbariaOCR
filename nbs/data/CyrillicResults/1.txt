@@ -1,0 +1,13 @@
+```json
+{
+  "institutionCode": "MW",
+  "catalogNumber": "0464618",
+  "scientificName": "Ledum palustre L.",
+  "country": "Russia",
+  "stateProvince": "Карелия",
+  "locality": "Ругозерская губа Кандалакшского залива Белого моря. П-ов Киндо",
+  "eventDate": "1983-07-06",
+  "recordedBy": "Вехов В.Н.",
+  "fieldNumber": "6183"
+}
+```

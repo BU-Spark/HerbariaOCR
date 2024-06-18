@@ -1,0 +1,24 @@
+```json
+{
+  "country": "Dominican Republic",
+  "institutionCode": "USNM",
+  "catalogNumber": "336",
+  "scientificName": "Verben",
+  "recordedBy": "W. L. Abbott",
+  "identifiedBy": "als Urban",
+  "dateIdentified": "Jan, 1923",
+  "eventDate": "Dec. 20, 1920",
+  "decimalLatitude": "18.5",
+  "decimalLongitude": "-70.82",
+  "minimumElevationInMeters": "100",
+  "maximumElevationInMeters": "500",
+  "verbatimElevation": "100 to 500 meters",
+  "locality": "Vicinity of Laguna, Samaná Peninsula, chiefly on the Pilón de Azúcar",
+  "collectionCode": "PLANTS",
+  "occurrenceID": "00796621"
+}
+```
+
+The provided text includes a mix of precise collectable data and numerical values which seem to be unrelated to biogeographical information. After sifting through the text, the above JSON object contains structured data relevant to a biological specimen according to the Darwin Core standard. 
+
+Fields 'decimalLatitude' and 'decimalLongitude' were approximated from the provided text and general knowledge of the Dominican Republic's location. The 'country' field is not explicit in the provided text, but "PLANTS OF THE DOMINICAN REPUBLIC" and "FLORA OF HISPANIOLA" suggest the specimen originates from the Dominican Republic. The 'catalogNumber', 'scientificName', 'recordedBy', 'identifiedBy', and other relevant fields are taken directly from the extract.

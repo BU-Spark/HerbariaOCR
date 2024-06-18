@@ -1,0 +1,16 @@
+```json
+{
+  "occurrenceID": "2081068",
+  "country": "Colombia",
+  "stateProvince": "Cauca",
+  "locality": "Il Tamba in silva nimauna",
+  "minimumElevationInMeters": "2800",
+  "scientificName": "Cyathea caracasana var. boliviensis (Rosenst.) Tryon",
+  "identifiedBy": "Rolla Tryon",
+  "dateIdentified": "1974",
+  "eventDate": "1939-04-25",
+  "institutionCode": "UNITED STATES NATIONAL MUSEUM",
+  "recordNumber": "2189",
+  "collector": "Kjell von Sneidern"
+}
+```

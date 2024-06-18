@@ -1,0 +1,20 @@
+```json
+{
+  "country": "United States",
+  "institutionCode": "US",
+  "collectionCode": "INVAL UNITE",
+  "catalogNumber": "363532",
+  "scientificName": "Cuscuta arvensis Beyrich",
+  "recordedBy": "E. S. Steele",
+  "eventDate": [
+    "1896-07-22",
+    "1896-08-17"
+  ],
+  "locality": [
+    "Brooklands",
+    "Canal"
+  ],
+  "occurrenceID": "00408096",
+  "associatedMedia": "Flora of the WASHINGTON-BALTIMORE AREA"
+}
+```

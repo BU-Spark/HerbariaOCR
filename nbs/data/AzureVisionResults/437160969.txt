@@ -1,0 +1,24 @@
+```json
+[
+    {
+        "scientificName": "Myntopsis macrocarpa Schltr.",
+        "eventDate": "1902",
+        "country": "New Caledonia",
+        "locality": "Auf den Bergen am Ngoye",
+        "minimumElevationInMeters": "1000",
+        "catalogNumber": "15198",
+        "recordedBy": "R. Schlechter",
+        "typeStatus": "TYPE",
+        "institutionCode": "Australian National Herbarium",
+        "collectionCode": "CANB",
+        "associatedReferences": "Iter Neo-Caledonicum, Plantae Schlechterianae No. 15198"
+    },
+    {
+        "scientificName": "Myrtopsis pomaderridifolia (Baill.) Guillaumin",
+        "eventDate": "1907-04-23",
+        "country": "France",
+        "institutionCode": "Herb. Muséum Paris",
+        "catalogNumber": "P00222151"
+    }
+]
+```

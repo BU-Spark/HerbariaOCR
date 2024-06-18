@@ -1,0 +1,18 @@
+Based on the provided text, there is not sufficient information to accurately fill in a complete JSON record according to the Darwin Core standard. The Darwin Core standard includes many fields such as `scientificName`, `locality`, `eventDate`, `recordedBy`, and more, which cannot be determined from the text snippet you've given.
+
+However, we can attempt to extract any information present and form a partial JSON record:
+
+```json
+{
+  "institutionCode": "Herbarium Univ. Mosquensis",
+  "catalogNumber": "MW 0 001 364",
+  "country": "Russia"
+}
+```
+
+Explanation of the inferred values:
+- The field `institutionCode` is inferred from "Herbarium Univ. Mosquensis" which suggests the herbarium of the University of Moscow, which would be in Russia.
+- `catalogNumber` seems to be represented by "MW 0 001 364", which typically denotes the unique identifier for the specimen in the herbarium or museum collection.
+- The `country` is not given directly, but the mention of Moscow suggests that the country is Russia.
+
+Please note that the Darwin Core standard has many required fields that cannot be populated from the provided text. For proper usage of the Darwin Core standard, more information on the specimen, its collection event, and identification would be needed. The partial JSON provided here is based solely on inference and the limited information provided.
